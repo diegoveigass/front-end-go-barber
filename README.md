@@ -44,6 +44,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [uuidv4](https://www.npmjs.com/package/uuidv4)
 - [yup](https://github.com/jquense/yup)
 - [react-spring](https://www.react-spring.io/)
+- [unform](https://github.com/Rocketseat/unform)
 
 
 ---
