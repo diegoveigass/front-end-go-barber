@@ -5,7 +5,7 @@
 </h1>
 
 <h1 align="center">
-  <img src="https://im2.ezgif.com/tmp/ezgif-2-d0793b9633cc.gif">
+  <img src="https://ik.imagekit.io/diegoveigass/ezgif-2-d0793b9633cc_hYBXhphv4U.gif">
 
   Demo da aplicação
 </h1>
